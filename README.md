@@ -1,4 +1,4 @@
-# Moscow
+Moscow
 Several programs for iGEM competition was created by Team Moscow
 
 ## Fuse IT
@@ -41,4 +41,16 @@ We develope script which can create strcture of Cas9 Protein in double stranding
 Huge thanks to Roma Novikov who give script which served as a base for our. 
 
 Result of the work of this program you can see in iGEM wiki modeling page:
+https://2021.igem.org/Team:Moscow/Model
+
+## Kinetic
+
+Kinetic model of the detection of miRNA with dCas9-split-GFP. Description of the model and result of simulation are availible on our page
+
+Our model is designed: 
+1) To predict time of detection
+2) To ensure the minimum detected concentration
+3) To prove the miRNA depending signal
+
+Result of the modeling kinetics you can see in iGEM wiki modeling page:
 https://2021.igem.org/Team:Moscow/Model
